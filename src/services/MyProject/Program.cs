@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using NLog.Web;
 
-namespace MyProject.API
+namespace MyProject.Core
 {
     public class Program
     {
