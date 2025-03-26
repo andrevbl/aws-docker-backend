@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using NLog.Web;
 
-namespace Cofin.Diligencia.API
+namespace MyProject.API
 {
     public class Program
     {
